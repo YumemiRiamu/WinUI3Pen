@@ -225,6 +225,10 @@ namespace winrt::WinUI3Pen::factory_implementation
 
 ```
 실행 화면</br>
+![Image description](./1.PNG)</br>
+![Image description](./2.PNG)</br>
+![Image description](./3.PNG)</br>
+![Image description](./4.PNG)</br>
 
 
 자가채점 
